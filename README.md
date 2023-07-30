@@ -15,7 +15,7 @@ The folder of ACQC_LJP contains two folders: dataset0(include synthetic datasets
 
 
 # Condition to use any sources of this project
-Please do not distribute the database or source codes to others untill the paper puplished and without the authorization of Dr. Mahdi Hashemzadeh (Corresponding author) and Nasim Abdolmaleki.
+Please do not distribute the database or source codes to others until the paper is published and without the authorization of Dr. Mahdi Hashemzadeh (Corresponding author) and Nasim Abdolmaleki.
 
 Authors’ Emails: n.abdolmaleki@tabrizu.ac.ir(N.Abdolmaleki), hashemzadeh@azaruniv.ac.ir (M. Hashemzadeh).
 
