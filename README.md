@@ -17,7 +17,7 @@ highlight the method’s robustness and effectiveness across various challenging
 advancement in unsupervised learning.
 
 
-The SourceCode.rar file includes the MATLAB implementation :
+The SourceCode.rar file includes the MATLAB implementation.
 
 For running the code you must start with ACQCLJPscript.m as the main script of the ACQC-LJP method.
 The folder of ACQC-LJP contains two folders: dataset0(include synthetic datasets) and dataset1(include 24 real-world datasets).
